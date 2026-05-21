@@ -1,2 +1,7 @@
-# linux-system-lablinux-system-lab
-Linux 系统行为分析与底层运维排障工具箱
+# Linux 系统运维与底层排障实验库
+
+本项目主要用于归档个人在 Linux 系统行为分析、底层机制研究及日常运维排障过程中的测试脚本与验证代码（PoC）。
+
+## 目录结构索引
+
+* [proc-visibility-demo](./proc-visibility-demo/) - 基于 procfs 的进程显示伪装与异常监控排查演示。
