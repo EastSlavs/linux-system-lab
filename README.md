@@ -4,4 +4,5 @@
 
 ## 目录结构索引
 
+* [monitoring-pocs](./monitoring-pocs/) - Prometheus 采集原理演示与自定义 Exporter 测试脚本。
 * [proc-visibility-demo](./proc-visibility-demo/) - 基于 procfs 的进程显示伪装与异常监控排查演示。
